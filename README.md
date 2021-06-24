@@ -1,2 +1,14 @@
-# relevant-github-repos
-A list of relevant GItHub repositories related to AI, CV, perception, ADAS...
+# Github Relevant Repositories
+1. https://github.com/ethz-asl/refill (REcursive FILtering Library - ETHZ)
+2. https://github.com/TheAlgorithms/C-Plus-Plus (C++ Algorithms implementation)
+3. https://github.com/AmrElsersy/SFND_3D_Object_Tracking (3D Object Tracking with Camera and LiDAR)
+4. https://github.com/AmrElsersy/PointPainting (Camera and LiDAR semantic segmentation)
+5. https://github.com/ros2/system_tests (ROS2 system tests)
+6. https://github.com/JunshengFu/tracking-with-Extended-Kalman-Filter (Kalman Filter LiDAR + radar)
+7. https://github.com/JunshengFu (Autonomous driving camera detection: Lanes, Vehicles, semantic segmentation)
+8. https://github.com/moribots/motion_planning (Motion Planning -> Employee at Boston Dynamics)
+9. https://github.com/nicrusso7/rex-gym (Spot Boston Dynamics Gym Learning to Walk)
+10. https://github.com/OpenQuadruped/spot_mini_mini (Spot Boston Dynamics mini, similar to the above)
+11. https://github.com/NVlabs/SegFormer (Semantic Segmantation by NVidia)
+12. https://github.com/SysCV/qdtrack (Multi Object Tracking VISION)
+13. https://medium.com/@florentpoux (Tutorials of 3D LiDAR perception)
