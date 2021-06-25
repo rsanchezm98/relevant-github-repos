@@ -12,3 +12,4 @@
 11. https://github.com/NVlabs/SegFormer (Semantic Segmantation by NVidia)
 12. https://github.com/SysCV/qdtrack (Multi Object Tracking VISION)
 13. https://medium.com/@florentpoux (Tutorials of 3D LiDAR perception)
+14. https://github.com/ApolloAuto/apollo (Apollo AUTO)
