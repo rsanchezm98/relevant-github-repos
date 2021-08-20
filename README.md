@@ -15,3 +15,7 @@
 14. https://github.com/ApolloAuto/apollo (Apollo AUTO)
 15. https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/tree/master/ (Autoware ROS2 Autonomous Driving)
 16. https://github.com/Ar-Ray-code/YOLOX-ROS (YOLOX in ROS2)
+17. https://github.com/AmrElsersy/Stereo-3D-Detection (3D Object detection stereo based)
+18. https://github.com/maudzung/SFA3D/tree/ea0222c1b35489dc35d8452c989c4b014e20e0da (LIDAR 3D object detection integrated in ROS)
+19. https://github.com/gau-nernst/centernet-lightning (Image object detector with PyTorch Lightning - CenterNet)
+20. https://github.com/ros-industrial/easy_perception_deployment (ROS2 perception package from ROS INDUSTRIAL related to CV)
