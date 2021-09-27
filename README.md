@@ -20,3 +20,4 @@
 19. https://github.com/gau-nernst/centernet-lightning (Image object detector with PyTorch Lightning - CenterNet)
 20. https://github.com/ros-industrial/easy_perception_deployment (ROS2 perception package from ROS INDUSTRIAL related to CV)
 21. https://github.com/lzccccc/SMOKE (3D Object detection via CAMERA)
+22. https://github.com/nv-tlabs/lift-splat-shoot (3D perception)
