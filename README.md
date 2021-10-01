@@ -23,3 +23,5 @@
 22. https://github.com/nv-tlabs/lift-splat-shoot (3D perception)
 23. https://github.com/open-mmlab/mmdetection3d (3D lidar perception)
 24. https://github.com/open-mmlab/mmtracking (2D multiobject tracking)
+25. https://github.com/LidarPerception/segmenters_lib (lidar segmenters lib for ROS)
+26. 
