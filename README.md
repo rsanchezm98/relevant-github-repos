@@ -27,3 +27,4 @@
 26. https://github.com/LidarPerception/kitti_lidar_camera (LiDAR + camera fusion in ROS)
 27. https://github.com/PRBonn/depth_clustering (lidar clustering)
 28. https://github.com/maudzung/RTM3D (3d object detection real time ADAS with cameras)
+29. https://gitlab.kitware.com/keu-computervision/slam/ (3D LIDAR SLAM with ROS wrapper)
