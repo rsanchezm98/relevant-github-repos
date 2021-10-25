@@ -29,3 +29,6 @@
 28. https://github.com/maudzung/RTM3D (3d object detection real time ADAS with cameras)
 29. https://gitlab.kitware.com/keu-computervision/slam/ (3D LIDAR SLAM with ROS wrapper)
 30. https://github.com/LiJiangnanBit/path_optimizer (path optimizer)
+31. https://github.com/erdos-project/pylot (pylot modules of ADAS: planning, perception...)
+32. https://github.com/SysCV/qd-3dt (monocular quasi-dense 3d object-tracking)
+33. https://github.com/uzh-rpg/rpg_svo_pro_open (visual odometry, visual intertial odometry, visual inertial slam, visual inertial slam with loop closure)
