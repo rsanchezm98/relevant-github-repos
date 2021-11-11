@@ -32,3 +32,4 @@
 31. https://github.com/erdos-project/pylot (pylot modules of ADAS: planning, perception...)
 32. https://github.com/SysCV/qd-3dt (monocular quasi-dense 3d object-tracking)
 33. https://github.com/uzh-rpg/rpg_svo_pro_open (visual odometry, visual intertial odometry, visual inertial slam, visual inertial slam with loop closure)
+34. https://github.com/LimHyungTae/ERASOR (3D LiDAR mapping and erasing dynamic obstacles)
