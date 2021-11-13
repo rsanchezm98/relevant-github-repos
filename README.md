@@ -34,3 +34,4 @@
 33. https://github.com/uzh-rpg/rpg_svo_pro_open (visual odometry, visual intertial odometry, visual inertial slam, visual inertial slam with loop closure)
 34. https://github.com/LimHyungTae/ERASOR (3D LiDAR mapping and erasing dynamic obstacles)
 35. https://github.com/PRBonn/deep-point-map-compression (pointcloud map compression and decompression)
+36. https://medium.com/@rsasaki0109/3d-mapping-with-graph-slam-using-3d-lidar-in-ros2-12ea7140e548 (3D SLAM LiDAR)
