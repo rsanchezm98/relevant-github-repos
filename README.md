@@ -35,3 +35,4 @@
 34. https://github.com/LimHyungTae/ERASOR (3D LiDAR mapping and erasing dynamic obstacles)
 35. https://github.com/PRBonn/deep-point-map-compression (pointcloud map compression and decompression)
 36. https://medium.com/@rsasaki0109/3d-mapping-with-graph-slam-using-3d-lidar-in-ros2-12ea7140e548 (3D SLAM LiDAR)
+37. https://github.com/cedricxie/apollo_perception_ros/tree/master/src/perception/apollo_perception_ros (Apollo perception module in ROS)
